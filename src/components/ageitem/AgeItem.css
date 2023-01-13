@@ -1,0 +1,15 @@
+
+.ul{
+line-height: none;
+border: 1px solid rgb(176, 178, 179);
+margin-left: 10px;
+    margin-right: 10px;
+    height: 37px;
+    list-style: none;
+
+}
+.p {
+    text-align:start;
+    padding-bottom:40px;
+     height: 20px;
+}

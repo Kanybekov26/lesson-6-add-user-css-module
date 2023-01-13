@@ -1,0 +1,27 @@
+.button {
+    margin-top: 10px;
+    margin-left: 10px;
+    /* margin-bottom: 10px; */
+    /* border-radius: 10px; */
+    /* border: none; */
+    padding-bottom: 10px;
+}
+
+.btn {
+    background-color: blueviolet;
+
+    width: 100px;
+    color: azure;
+  padding: 10px 20px;
+  border-radius:10px;
+  border: none;
+}
+.btn:hover {
+    background-color: rgb(68, 5, 128);
+  color: rgb(224, 229, 232);
+}
+.btn:active {
+    background-color: rgb(50, 5, 92);
+    color: rgb(190, 191, 192);
+
+}
