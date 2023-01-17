@@ -36,7 +36,7 @@ function App() {
 
   
   const newyearuser = (ageuser) => {
-   
+    console.log(ageuser);
     const copiyearUser = [...yearUser] 
     copiyearUser.push(ageuser)
     setYearUser(copiyearUser)

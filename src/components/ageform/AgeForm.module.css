@@ -1,8 +1,8 @@
-.ageForm-container {
+.ageFormcontainer {
     margin: auto;
     text-align: center;
     /* border: 2px solid red; */
-    background-color: white;
+    background-color:white;
     width: 600px;
     border-radius: 10px;
     margin-top: 30px;

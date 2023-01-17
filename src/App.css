@@ -1,7 +1,9 @@
-.App {
-  /* text-align: center; */
+html {
   background-color: black;
-  height: 900px;
+
+}
+
+.App {
   padding-top: 50px;
 }
 

@@ -1,9 +1,11 @@
 
+
 import React from 'react'
 import { useState } from 'react'
 import Button from '../Ui/button/Button'
-import Input from '../Ui/input/Input'
+import {Input} from "../Ui/input/Input"
 import "../inputform/ImputForm.css"
+
 
 const Inputform = ({newyearuser}) => {
 
