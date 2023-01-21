@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lesson-6-add-user-css-module/static/css/main.7aa7ade1.css",
+    "main.js": "/lesson-6-add-user-css-module/static/js/main.4019c938.js",
+    "index.html": "/lesson-6-add-user-css-module/index.html",
+    "main.7aa7ade1.css.map": "/lesson-6-add-user-css-module/static/css/main.7aa7ade1.css.map",
+    "main.4019c938.js.map": "/lesson-6-add-user-css-module/static/js/main.4019c938.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aa7ade1.css",
+    "static/js/main.4019c938.js"
+  ]
+}
